@@ -1,0 +1,20 @@
+E:\workspace for database\Digital Library\Entity\bin\Debug\Entity.dll
+E:\workspace for database\Digital Library\Entity\bin\Debug\Entity.pdb
+E:\workspace for database\Digital Library\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\workspace for database\Digital Library\Entity\obj\Debug\Entity.dll
+E:\workspace for database\Digital Library\Entity\obj\Debug\Entity.pdb
+C:\Users\Boss\Desktop\Digital Library\Entity\bin\Debug\Entity.dll
+C:\Users\Boss\Desktop\Digital Library\Entity\bin\Debug\Entity.pdb
+C:\Users\Boss\Desktop\Digital Library\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\Digital Library\Entity\obj\Debug\Entity.dll
+C:\Users\Boss\Desktop\Digital Library\Entity\obj\Debug\Entity.pdb
+C:\Users\topu\Desktop\Digital Library\Entity\bin\Debug\Entity.dll
+C:\Users\topu\Desktop\Digital Library\Entity\bin\Debug\Entity.pdb
+C:\Users\topu\Desktop\Digital Library\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\topu\Desktop\Digital Library\Entity\obj\Debug\Entity.dll
+C:\Users\topu\Desktop\Digital Library\Entity\obj\Debug\Entity.pdb
+H:\Work space\workspace for database\New folder\Digital Library\Entity\bin\Debug\Entity.dll
+H:\Work space\workspace for database\New folder\Digital Library\Entity\bin\Debug\Entity.pdb
+H:\Work space\workspace for database\New folder\Digital Library\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+H:\Work space\workspace for database\New folder\Digital Library\Entity\obj\Debug\Entity.dll
+H:\Work space\workspace for database\New folder\Digital Library\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,45 @@
+E:\workspace for database\Digital Library\BL\bin\Debug\BL.dll
+E:\workspace for database\Digital Library\BL\bin\Debug\BL.pdb
+E:\workspace for database\Digital Library\BL\bin\Debug\DAL.dll
+E:\workspace for database\Digital Library\BL\bin\Debug\Entity.dll
+E:\workspace for database\Digital Library\BL\bin\Debug\DAL.pdb
+E:\workspace for database\Digital Library\BL\bin\Debug\Entity.pdb
+E:\workspace for database\Digital Library\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\workspace for database\Digital Library\BL\obj\Debug\BL.dll
+E:\workspace for database\Digital Library\BL\obj\Debug\BL.pdb
+E:\study\study\books\visual studio practise\Digital Library\BL\bin\Debug\BL.dll
+E:\study\study\books\visual studio practise\Digital Library\BL\bin\Debug\BL.pdb
+E:\study\study\books\visual studio practise\Digital Library\BL\bin\Debug\DAL.dll
+E:\study\study\books\visual studio practise\Digital Library\BL\bin\Debug\Entity.dll
+E:\study\study\books\visual studio practise\Digital Library\BL\bin\Debug\DAL.pdb
+E:\study\study\books\visual studio practise\Digital Library\BL\bin\Debug\Entity.pdb
+E:\study\study\books\visual studio practise\Digital Library\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\study\study\books\visual studio practise\Digital Library\BL\obj\Debug\BL.dll
+E:\study\study\books\visual studio practise\Digital Library\BL\obj\Debug\BL.pdb
+C:\Users\Boss\Desktop\Digital Library\BL\bin\Debug\BL.dll
+C:\Users\Boss\Desktop\Digital Library\BL\bin\Debug\BL.pdb
+C:\Users\Boss\Desktop\Digital Library\BL\bin\Debug\DAL.dll
+C:\Users\Boss\Desktop\Digital Library\BL\bin\Debug\Entity.dll
+C:\Users\Boss\Desktop\Digital Library\BL\bin\Debug\DAL.pdb
+C:\Users\Boss\Desktop\Digital Library\BL\bin\Debug\Entity.pdb
+C:\Users\Boss\Desktop\Digital Library\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\Digital Library\BL\obj\Debug\BL.dll
+C:\Users\Boss\Desktop\Digital Library\BL\obj\Debug\BL.pdb
+C:\Users\topu\Desktop\Digital Library\BL\bin\Debug\BL.dll
+C:\Users\topu\Desktop\Digital Library\BL\bin\Debug\BL.pdb
+C:\Users\topu\Desktop\Digital Library\BL\bin\Debug\DAL.dll
+C:\Users\topu\Desktop\Digital Library\BL\bin\Debug\Entity.dll
+C:\Users\topu\Desktop\Digital Library\BL\bin\Debug\DAL.pdb
+C:\Users\topu\Desktop\Digital Library\BL\bin\Debug\Entity.pdb
+C:\Users\topu\Desktop\Digital Library\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\topu\Desktop\Digital Library\BL\obj\Debug\BL.dll
+C:\Users\topu\Desktop\Digital Library\BL\obj\Debug\BL.pdb
+H:\Work space\workspace for database\New folder\Digital Library\BL\bin\Debug\BL.dll
+H:\Work space\workspace for database\New folder\Digital Library\BL\bin\Debug\BL.pdb
+H:\Work space\workspace for database\New folder\Digital Library\BL\bin\Debug\DAL.dll
+H:\Work space\workspace for database\New folder\Digital Library\BL\bin\Debug\Entity.dll
+H:\Work space\workspace for database\New folder\Digital Library\BL\bin\Debug\DAL.pdb
+H:\Work space\workspace for database\New folder\Digital Library\BL\bin\Debug\Entity.pdb
+H:\Work space\workspace for database\New folder\Digital Library\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+H:\Work space\workspace for database\New folder\Digital Library\BL\obj\Debug\BL.dll
+H:\Work space\workspace for database\New folder\Digital Library\BL\obj\Debug\BL.pdb

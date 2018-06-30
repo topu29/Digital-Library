@@ -1,0 +1,35 @@
+E:\workspace for database\Digital Library\DAL\bin\Debug\DAL.dll
+E:\workspace for database\Digital Library\DAL\bin\Debug\DAL.pdb
+E:\workspace for database\Digital Library\DAL\bin\Debug\Entity.dll
+E:\workspace for database\Digital Library\DAL\bin\Debug\Entity.pdb
+E:\workspace for database\Digital Library\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\workspace for database\Digital Library\DAL\obj\Debug\DAL.dll
+E:\workspace for database\Digital Library\DAL\obj\Debug\DAL.pdb
+E:\study\study\books\visual studio practise\Digital Library\DAL\bin\Debug\DAL.dll
+E:\study\study\books\visual studio practise\Digital Library\DAL\bin\Debug\DAL.pdb
+E:\study\study\books\visual studio practise\Digital Library\DAL\bin\Debug\Entity.dll
+E:\study\study\books\visual studio practise\Digital Library\DAL\bin\Debug\Entity.pdb
+E:\study\study\books\visual studio practise\Digital Library\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\study\study\books\visual studio practise\Digital Library\DAL\obj\Debug\DAL.dll
+E:\study\study\books\visual studio practise\Digital Library\DAL\obj\Debug\DAL.pdb
+C:\Users\Boss\Desktop\Digital Library\DAL\bin\Debug\DAL.dll
+C:\Users\Boss\Desktop\Digital Library\DAL\bin\Debug\DAL.pdb
+C:\Users\Boss\Desktop\Digital Library\DAL\bin\Debug\Entity.dll
+C:\Users\Boss\Desktop\Digital Library\DAL\bin\Debug\Entity.pdb
+C:\Users\Boss\Desktop\Digital Library\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\Digital Library\DAL\obj\Debug\DAL.dll
+C:\Users\Boss\Desktop\Digital Library\DAL\obj\Debug\DAL.pdb
+C:\Users\topu\Desktop\Digital Library\DAL\bin\Debug\DAL.dll
+C:\Users\topu\Desktop\Digital Library\DAL\bin\Debug\DAL.pdb
+C:\Users\topu\Desktop\Digital Library\DAL\bin\Debug\Entity.dll
+C:\Users\topu\Desktop\Digital Library\DAL\bin\Debug\Entity.pdb
+C:\Users\topu\Desktop\Digital Library\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\topu\Desktop\Digital Library\DAL\obj\Debug\DAL.dll
+C:\Users\topu\Desktop\Digital Library\DAL\obj\Debug\DAL.pdb
+H:\Work space\workspace for database\New folder\Digital Library\DAL\bin\Debug\DAL.dll
+H:\Work space\workspace for database\New folder\Digital Library\DAL\bin\Debug\DAL.pdb
+H:\Work space\workspace for database\New folder\Digital Library\DAL\bin\Debug\Entity.dll
+H:\Work space\workspace for database\New folder\Digital Library\DAL\bin\Debug\Entity.pdb
+H:\Work space\workspace for database\New folder\Digital Library\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\Work space\workspace for database\New folder\Digital Library\DAL\obj\Debug\DAL.dll
+H:\Work space\workspace for database\New folder\Digital Library\DAL\obj\Debug\DAL.pdb
